@@ -1,0 +1,3 @@
+setup,n_test,test_msgs_also_in_train,f1,precision,recall
+Raw data (duplicates kept),1115,128,0.9488,0.9653,0.9329
+De-duplicated (used in the project),1034,0,0.9125,0.9091,0.916

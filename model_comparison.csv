@@ -1,0 +1,5 @@
+model,cv_f1,cv_precision,cv_recall,cv_roc_auc
+Baseline (majority class),0.0,0.0,0.0,0.5
+Multinomial Naive Bayes,0.9363,0.9894,0.8888,0.9879
+Logistic Regression,0.9343,0.9302,0.9386,0.9907
+Linear SVM (calibrated),0.9428,0.9552,0.931,0.9915

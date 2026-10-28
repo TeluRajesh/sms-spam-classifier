@@ -1,0 +1,15 @@
+{
+  "selected_model": "Linear SVM (calibrated)",
+  "best_params": {
+    "clf__estimator__C": "0.3",
+    "tfidf__ngram_range": "(1, 2)"
+  },
+  "n_messages_after_dedup": 5169,
+  "n_train": 4135,
+  "n_test": 1034,
+  "test_accuracy": 0.9778,
+  "test_precision": 0.9091,
+  "test_recall": 0.916,
+  "test_f1": 0.9125,
+  "test_roc_auc": 0.9903
+}

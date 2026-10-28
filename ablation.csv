@@ -1,0 +1,4 @@
+variant,f1,precision,recall,roc_auc
+"Selected: unigrams + bigrams, sublinear TF",0.9449,0.9558,0.9348,0.9915
+- unigrams only,0.9339,0.9492,0.9195,0.9909
+- without sublinear TF scaling,0.9413,0.9505,0.9329,0.9912
